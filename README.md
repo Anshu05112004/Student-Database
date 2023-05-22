@@ -1,6 +1,8 @@
 # Student-Database
 Student database management using C-DSA
 
+<img src="./68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b653.gif" height=300px width=300px>
+
 ## Project Description
 This project is to maintain database of number of students in  subjects (which can be changed in the program by changing the variable):
    ``` 
@@ -24,6 +26,6 @@ This project is to maintain database of number of students in  subjects (which c
  # Demo (For Windows 8 | 10 | 11)
  * Download file from [here](https://github.com/Anshu05112004/Student-Database)
  
- ##Author
+ ## Author
   
   [Anshu05112004](http://github.com/Anshu05112004)
