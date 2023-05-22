@@ -24,7 +24,7 @@ This project is to maintain database of number of students in  subjects (which c
   The program will execute enter the values as per required do not enter wrong type of data there is no exception handling .
  
  # Demo (For Windows 8 | 10 | 11)
- * Download file from [here](https://github.com/Anshu05112004/Student-Database)
+ * Download file from [here]([https://github.com/Anshu05112004/Student-Database](https://github.com/Anshu05112004/Student-Database/archive/refs/heads/main.zip))
  
  ## Author
   
